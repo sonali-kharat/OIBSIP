@@ -17,15 +17,15 @@ body {
     width: 600px;
     display: flex;
     flex-direction: column;
-    align-items: center; /* Center content horizontally */
+    align-items: center; 
 }
 
 .header {
-    background-color: #007BFF; /* Change this color as needed */
+    background-color: #007BFF; 
     padding: 10px;
     border-radius: 10px;
     text-align: center;
-    color: #fff; /* Optional: Change text color */
+    color: #fff; 
     width: 100%;
 }
 
@@ -37,7 +37,7 @@ h1 {
     display: flex;
     flex-direction: column;
     margin-bottom: 20px;
-    width: 100%; /* Ensure it takes full width of container */
+    width: 100%; 
 }
 
 input[type="text"],
@@ -53,7 +53,7 @@ button {
 }
 
 textarea {
-    resize: vertical; /* Allow vertical resizing */
+    resize: vertical; 
 }
 
 button {
